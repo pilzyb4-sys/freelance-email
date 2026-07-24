@@ -1,0 +1,6 @@
+{
+  "name": "KirimGmail Freelance",
+  "description": "Platform freelance untuk pembuatan akun Gmail dengan bayaran Rp 3.000 per akun. Pantau tugas real-time melalui Telegram bot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
